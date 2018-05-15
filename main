@@ -2,6 +2,10 @@
 
 def main(msg):
     print(msg)
+<<<<<<< HEAD
     //different
 
+=======
+	//print
+>>>>>>> refs/remotes/origin/master
 main("hello")
